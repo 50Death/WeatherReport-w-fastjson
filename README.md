@@ -18,8 +18,8 @@
 不要点最后一个BottomNavigationView，BUG尚未修复
 
 ## 参考文献
-[免费天气API接口...](https://www.tianqiapi.com/)
-[fastjson | Alibaba Open Source](https://github.com/alibaba/fastjson)
+* [免费天气API接口...](https://www.tianqiapi.com/)
+* [fastjson | Alibaba Open Source](https://github.com/alibaba/fastjson)
 
 ## 请捐赠打赏投食！！！
 ![图片加载失败](https://github.com/50Death/CipheredSocketChat/blob/master/Pictures/%E6%94%AF%E4%BB%98%E5%AE%9D%E7%BA%A2%E5%8C%85.jpg)
