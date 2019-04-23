@@ -12,7 +12,7 @@
 * OS: Android 9.0 Pie
 
 ## 屏幕截图
-<img src="https://github.com/50Death/WeatherReport-w-fastjson/blob/master/screenshot/%E5%9B%BE%E7%89%871.jpg" width="225" height="400" div=left/>
+<img src="https://github.com/50Death/WeatherReport-w-fastjson/blob/master/screenshot/%E5%9B%BE%E7%89%871.jpg" width="333" height="700" div=left/>
 
 ## 使用说明
 不要点最后一个BottomNavigationView，BUG尚未修复
