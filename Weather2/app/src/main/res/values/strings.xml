@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather2</string>
+    <string name="title_home">天气</string>
+    <string name="title_dashboard">RAW</string>
+    <string name="title_notifications">JSON</string>
+    <string name="textview">TextView</string>
+</resources>
