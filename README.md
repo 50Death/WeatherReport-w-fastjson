@@ -8,7 +8,7 @@
 * Android SDK 28 (8.0 Oreo)
 
 ## 测试环境
-* Device: SAMSUNG S10+
+* Device: SAMSUNG  S10+
 * OS: Android 9.0 Pie
 
 ## 屏幕截图
